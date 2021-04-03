@@ -16,7 +16,8 @@
     "strict": true,
     // Generate corresponding .map file
     "sourceMap": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "jsxImportSource": "@emotion/react"
   },
   "include": ["src"],
   "compileOnSave": false
